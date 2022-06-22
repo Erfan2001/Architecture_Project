@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "F:/University/Memari/Verilog/Phaz3/Main.xst" -ofn "F:/University/Memari/Verilog/Phaz3/Main.syr" 
+xst -intstyle ise -ifn "F:/University/Memari/Verilog/Phaz3/Main.xst" -ofn "F:/University/Memari/Verilog/Phaz3/Main.syr" 

@@ -1,0 +1,2 @@
+vhdtdtfi -lang verilog -prj Phaz3 -o F:/University/Memari/Verilog/Phaz3/Hazard_Detect.tfi -lib work F:/University/Memari/Verilog/Phaz3//Hazard_Detect.v -module Hazard_Detect -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj Phaz3 -o F:/University/Memari/Verilog/Phaz3/Hazard_Detect.tfi -lib work F:/University/Memari/Verilog/Phaz3//Hazard_Detect.v -module Hazard_Detect -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

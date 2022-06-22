@@ -1,0 +1,18 @@
+
+
+
+// Instantiate the module
+ID instance_name (
+    .pc_in(pc_in), 
+    .instruction(instruction), 
+    .des(des), 
+    .write_reg(write_reg), 
+    .pc_out(pc_out), 
+    .valA(valA), 
+    .valB(valB), 
+    .imm(imm), 
+    .rt(rt), 
+    .rd(rd)
+    );
+
+

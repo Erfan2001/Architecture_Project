@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+Hazard_Detect instance_name (
+    .src(src), 
+    .des(des), 
+    .hazard(hazard)
+    );
+
+

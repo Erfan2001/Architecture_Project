@@ -1,0 +1,3 @@
+verilog work "Data_Mem.v"
+verilog work "Branch_And.v"
+verilog work "MEM.v"

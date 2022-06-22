@@ -1,0 +1,5 @@
+verilog work "Reg_File.v"
+verilog work "Extension_Jump.v"
+verilog work "Extension.v"
+verilog work "CTR_Unit.v"
+verilog work "ID.v"

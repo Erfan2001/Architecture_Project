@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj Phaz3 -o F:/University/Memari/Verilog/Phaz3/ID.tfi -lib work F:/University/Memari/Verilog/Phaz3//ID.v -module ID -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
